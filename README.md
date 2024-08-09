@@ -5,7 +5,7 @@ This is a full-stack food ordering web application built using the MERN stack (M
 Deployed link : https://food-delivery-app-1-ervk.onrender.com/
 Admin Panels : https://food-delivery-app-admin-7t4k.onrender.com/
 
-## Notes App with MongoDB, Express, React & Nodejs (MERN).
+## Food Delivery App using MERN Stack
 
 - [Key Features](#key-features)
 - [Technologies used](#technologies-used)
