@@ -176,7 +176,7 @@ fill information and click on the pay button and complete.
 After successful payment, it will open the my order page. where we can see the order details
 here is displaying the food details, quantity , total price , and the order status is processing.
 
-![8  order pages](https://github.com/user-attachments/assets/402ba44e-886c-4879-8da2-deb85e7b8dd6)
+![8  order pages](https://github.com/user-attachments/assets/6ea9d04c-8bdd-4c6a-91b2-619cc7e31140)
 
 ---
 
@@ -215,7 +215,7 @@ status – food processing, out of delivery, delivered.
 we can change status of the order from the admin panel.
 and user will see status delivered
 
-![11  admin orders](https://github.com/user-attachments/assets/1b043646-3628-4e03-9557-73d2792123ba)
+![11  admin orders](https://github.com/user-attachments/assets/9803f97f-7f13-4311-9a0f-eb30ac86f750)
 
 ---
 
