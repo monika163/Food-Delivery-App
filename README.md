@@ -184,8 +184,8 @@ here is displaying the food details, quantity , total price , and the order stat
 
 Lets see the preview of our admin panel, here we have the three options
 
-add items
-list items
+add items, 
+list items,
 orders
 
 ---
