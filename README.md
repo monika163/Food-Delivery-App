@@ -78,8 +78,6 @@ npm install
 Install dependencies for backend
 npm install
 
-Install dependencies for frontend
-npm install
 
 Run the frontend
 npm run dev
