@@ -137,7 +137,7 @@ if we click on menu again , it will display all the food items.
 
 #### Add Items to the Cart
 
-Now we can add the product in our card. Here we have the + icon , click on it, this product will be added to the cart.
+Now we can add the product in our cart. Here we have the + icon , click on it, this product will be added to the cart.
 if we click on plus , it will increase the quantity.
 and if we click on minus icon , it will decrease the quantity.
 
@@ -147,7 +147,7 @@ and if we click on minus icon , it will decrease the quantity.
 
 #### Proceed to checkout
 
-Now we will open the card page, so in this card page we can see the Product image , product name, price, quantity and here we have the total price and delivery charges
+Now we will open the cart page, so in this cart page we can see the Product image , product name, price, quantity and here we have the total price and delivery charges
 now we will click on this proceed to checkout.
 
 ![5  proceed to checkout](https://github.com/user-attachments/assets/3c77c624-c621-4ea8-9359-a9128e0d5370)
