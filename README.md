@@ -192,7 +192,7 @@ orders
 
 #### Admin - List Items
 
-Here we have the all the food item listed on out web page
+Here we have the all the food item listed on our web page
 we can delete the food list.
 
 ![9  admin list items ](https://github.com/user-attachments/assets/52ba6877-46cd-4dd9-a667-d0d41df82b37)
